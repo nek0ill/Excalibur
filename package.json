@@ -36,7 +36,7 @@
     "@openzeppelin/contracts-upgradeable": "^4.7.3",
     "@typechain/ethers-v5": "^9.0.0",
     "@typechain/hardhat": "^5.0.0",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.6.1",
     "hardhat-contract-sizer": "^2.5.1",
     "solidity-coverage": "^0.7.20"
   }
